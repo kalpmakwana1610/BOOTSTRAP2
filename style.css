@@ -1,0 +1,63 @@
+.d-flex{
+    margin-left: 20px;
+    
+}
+
+.abc{
+    background-color: blue;
+    
+
+}
+.abc a{
+    color: white;
+    text-decoration: none;
+}
+.top{
+    margin-top: 50px;
+    text-align: center;
+}
+.top h1{
+    margin-top: 50px;
+}
+.top p{
+    margin-top: 50px;
+}
+.text{
+    background-color:black;
+    
+}
+.textdec li{
+    color: white;
+    list-style: none;
+    
+}
+
+
+.textdec a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+.lable{
+    margin-left: 150px;
+    margin-top: 5px;
+    color: red;
+
+}
+/* .gradient-custom {
+    overflow: hidden;
+    /* fallback for old browsers */
+    /* background: white;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    /* background: -webkit-linear-gradient(to right, rgb(242, 240, 244), rgb(232, 235, 242)); */
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    /* background: linear-gradient(to right, rgb(240, 238, 243), rgb(246, 247, 249)) */
+    /* } */ 
+
+    
+
+    
+
